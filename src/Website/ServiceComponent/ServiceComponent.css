@@ -13,7 +13,7 @@
 }
 .Servicebox1 {
   margin: 50px auto;
-  height: 100vh;
+/*   height: 100vh; */
 }
 
 .Servicebox1 h1 span {
@@ -598,7 +598,7 @@
     height: 50vh;
   }
   .Servicebox4 {
-    flex-direction: column;
+     flex-direction: column-reverse;
   }
 
   .Service4 h1 {
