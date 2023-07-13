@@ -1,0 +1,398 @@
+.About_container {
+  /* height: 100vh; */
+  width: 100%;
+  /* border: 2px solid red; */
+  background-image: linear-gradient(
+      rgba(114, 114, 165, 0.192),
+      rgba(11, 19, 20, 0.7)
+    ),
+    url(https://codesandbox.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero.122005fe.jpg&w=1920&q=75);
+  background-position: center;
+  background-size: cover;
+}
+.About_box {
+  /* border: 2px solid green; */
+  width: 100%;
+}
+
+.About_box h1 {
+  font-size: 5rem;
+  margin-top: 30px;
+  padding-left: 80px;
+
+  color: aliceblue;
+  width: 35%;
+  z-index: 9999;
+}
+
+.About_box h1 span {
+  color: rgb(190, 228, 54);
+}
+
+.About_box h2 {
+  color: aliceblue;
+  font-size: 2rem;
+  padding-top: 100px;
+  padding-left: 80px;
+}
+
+.About_box p {
+  font-size: 1.2rem;
+  color: whitesmoke;
+  margin: 20px 80px 0px;
+  width: 30%;
+  padding-bottom: 50px;
+}
+/* 2nd Container */
+.AboutContainer2 {
+  /* height: 100vh; */
+  width: 100%;
+  /* border: 2px solid red;  */
+
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 100px 0px auto;
+}
+.AboutBox2 {
+  margin: 5rem auto;
+}
+.AboutBox2 h1 {
+  font-size: 5rem;
+  color: white;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 70px;
+  opacity: 0.8;
+
+  letter-spacing: -4px;
+  /* letter-spacing: inherit; */
+}
+.AboutBox2 h1 span {
+  font-size: 5rem;
+  letter-spacing: -4px;
+  color: #e3ff73;
+}
+.AboutBox2 h3 {
+  padding-bottom: 30px;
+  color: white;
+  font-size: 2rem;
+  font-weight: 500;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.AboutBox2 p {
+  color: white;
+  font-size: 1.2rem;
+}
+.AboutBox2 h6 {
+  padding: 15px;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 400;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+/* 3rd Container */
+.AboutContainer3 {
+  /* height: 100vh; */
+  width: 100%;
+  /* border: 2px solid red; */
+  background-image: linear-gradient(
+      rgba(114, 114, 165, 0.192),
+      rgba(11, 19, 20, 0.7)
+    ),
+    url(https://codesandbox.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fproduct.19dd84b7.jpg&w=1920&q=100);
+  background-position: center;
+  background-size: cover;
+}
+.AboutBox3 {
+  /* border: 2px solid green; */
+  width: 100%;
+}
+.AboutBox3 h1 {
+  font-size: 3rem;
+  margin-top: 30px;
+  padding-left: 80px;
+
+  width: 35%;
+  z-index: 9999;
+}
+
+.AboutBox3 h1 span {
+  font-size: 6rem;
+}
+
+.AboutBox3 h2 {
+  color: aliceblue;
+  font-size: 2rem;
+  padding-top: 100px;
+  padding-left: 80px;
+}
+
+.AboutBox3 p {
+  font-size: 1.2rem;
+  color: whitesmoke;
+  margin: 20px 80px 0px;
+  width: 30%;
+  padding-bottom: 50px;
+}
+
+/* Container 4 */
+.AboutContainer4 {
+  width: 100%;
+  /* height: 100vh; */
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+  justify-content: center;
+  /* border: 2px solid green; */
+}
+.SmallBox {
+  margin: auto;
+
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+  height: 120px;
+  width: auto;
+}
+.SmallBox p {
+  margin-top: 15px;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 300;
+  align-items: center;
+  text-align: left;
+}
+.Aboutbox4 {
+  width: 100%;
+
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  /* border: 2px solid red; */
+}
+.AboutBoxcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px auto;
+
+  width: 80%;
+
+  /* border: 2px solid yellow; */
+}
+.Aboutbox4 h1 {
+  font-weight: 700;
+  line-height: 1;
+
+  letter-spacing: -4px;
+}
+.Aboutbox4 h1 span {
+  font-size: 8rem;
+  letter-spacing: -4px;
+  /* color: #e3ff73; */
+}
+/* Container 5 */
+.AboutContainer5 {
+  /* height: 100vh; */
+  background: #0e0e0e;
+  width: 100%;
+  /* border: 2px solid red; */
+  /* margin-top: 100px; */
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  /* margin: 100px 0px auto; */
+  /* margin: 100px; */
+}
+.AboutBox5 {
+  /* height: 100vh; */
+  margin: 100px auto;
+  /* border: 2px solid green; */
+}
+.AboutBox5 h1 {
+  font-size: 2rem;
+  color: white;
+  margin: 30px;
+}
+.imgSet {
+  height: 200px;
+  width: 200px;
+  border: 20px solid white;
+  opacity: 1;
+}
+.AboutBox5 p {
+  font-size: 4.5rem;
+  color: aliceblue;
+  font-weight: 700;
+}
+.AboutBox5 h3 {
+  margin-top: 15px;
+  color: gray;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+.Aboutbox5btn {
+  margin: 30px;
+  text-align: center;
+  justify-content: center;
+}
+.AboutBox5 h6 {
+  margin-top: 20px;
+  font-size: 1.4rem;
+  font-weight: 400;
+
+  /* margin: 20px; */
+
+  cursor: pointer;
+}
+/* Media Query */
+@media screen and (max-width: 786px) {
+  .About_box h1 {
+    font-size: 2.5rem;
+    margin-top: 30px;
+    padding-left: 20px;
+    width: 100%;
+  }
+
+  .About_box h2 {
+    color: aliceblue;
+    font-size: 2rem;
+    padding-top: 100px;
+    padding-left: 20px;
+  }
+
+  .About_box p {
+    margin: 20px auto;
+    width: 100%;
+    padding: 20px;
+  }
+
+  /*2nd */
+
+  .AboutBox2 h1 {
+    font-size: 1.5rem;
+    letter-spacing: 0.5px;
+  }
+  .AboutBox2 h1 span {
+    font-size: 2.5rem;
+
+    color: #e3ff73;
+  }
+  .AboutBox2 h3 {
+    font-size: 1.2rem;
+  }
+  .AboutBox2 p {
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+  }
+  .AboutBox2 h6 {
+    font-size: 1rem;
+  }
+  /* 3rd */
+  .AboutBox3 h1 {
+    margin-top: 30px;
+    padding-left: 20px;
+  }
+
+  .AboutBox3 h1 span {
+    font-size: 3rem;
+  }
+
+  .AboutBox3 h2 {
+    color: aliceblue;
+    font-size: 2rem;
+    /* padding-top: 100px; */
+    padding-left: 20px;
+  }
+
+  .AboutBox3 p {
+    font-size: 1.2rem;
+    margin: 20px auto;
+    width: 100%;
+    padding: 20px;
+  }
+  /* 4th*/
+
+  .SmallBox {
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    width: auto;
+  }
+  .SmallBox p {
+    color: white;
+    font-size: 1rem;
+
+    align-items: center;
+    text-align: center;
+  }
+  .Aboutbox4 {
+    width: 100%;
+
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .Aboutbox4 {
+    width: 100%;
+
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .AboutBoxcontainer {
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    flex-direction: column;
+  }
+  .Aboutbox4 h1 span {
+    font-size: 3rem;
+  }
+
+  .SmallBox {
+    margin: 10px auto;
+  }
+  .AboutBoxcontainer:nth-child(2) {
+    flex-direction: column-reverse;
+  }
+  /* 5th */
+  /* .AboutBox5 h1 {
+  
+    color: white;
+    margin: 30px;
+  }
+  .imgSet {
+    height: 200px;
+    width: 200px;
+    border: 20px solid white;
+    opacity: 1;
+  } */
+  .AboutBox5 p {
+    font-size: 2.5rem;
+  }
+  .AboutBox5 h3 {
+  
+    font-size: 1rem;
+
+  }
+  .Aboutbox5btn {
+    margin: 30px;
+    text-align: center;
+    justify-content: center;
+  }
+  .AboutBox5 h6 {
+ 
+    font-size: 1.2rem;
+
+}
+}

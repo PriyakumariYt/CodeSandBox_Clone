@@ -1,0 +1,756 @@
+.ServiceContainer1 {
+  background-image: url("https://codesandbox.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbackground.d73aac1e.png&w=1920&q=75");
+  background: cover;
+
+  background-position: center;
+
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  /* margin-bottom: 100px; */
+}
+.Servicebox1 {
+  margin: 50px auto;
+  height: 100vh;
+}
+
+.Servicebox1 h1 span {
+  font-size: 7rem;
+  letter-spacing: -4px;
+  line-height: 1;
+  font-weight: 600;
+}
+.Servicebox1 p {
+  color: white;
+  font-size: 1.7rem;
+
+  margin: 30px;
+  opacity: 0.8;
+}
+.Servicebox1 h6 {
+  margin: 70px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 20px;
+  padding: 15px;
+  color: whitesmoke;
+  cursor: pointer;
+}
+/* comtainer 2 */
+.ServiceContainer2 {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox2 {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Service1 {
+  width: 100%;
+  margin: auto;
+}
+.Service1 h1 {
+  color: rgb(255, 255, 255);
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service1 h2 {
+  color: white;
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service1 p {
+  color: rgb(253, 253, 253);
+  opacity: 0.6;
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service1 h6 {
+  color: #d6fb41;
+
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+
+/* container 3 */
+
+.ServiceContainer3 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox3 {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Service3 {
+  width: 100%;
+  margin: auto;
+}
+.Service3 h1 {
+  color: rgb(255, 255, 255);
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service3 h2 {
+  color: white;
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service3 p {
+  color: rgb(253, 253, 253);
+  opacity: 0.6;
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service3 h6 {
+  color: #d6fb41;
+  /* opacity: 0.6; */
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.ServiceImg {
+  display: flex;
+  align-items: start;
+  height: 90vh;
+  background: cover;
+  width: 100%;
+}
+/* CONTAINER 4  */
+.ServiceContainer4 {
+  /* height: 100vh; */
+  background-image: linear-gradient(
+    to right top,
+    #e3d865,
+    #e5da59,
+    #e6dc4d,
+    #e8de3f,
+    #e9e02d
+  );
+  /* opacity: 0.8; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox4 {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Service4 {
+  width: 100%;
+  margin: auto;
+}
+.Service4 h1 {
+  color: rgb(10, 1, 1);
+  opacity: 0.6;
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service4 h2 {
+  color: rgb(24, 19, 19);
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service4 p {
+  color: rgba(73, 51, 51, 0.938);
+  opacity: 0.6;
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service4 h6 {
+  color: #1a44a0;
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.ServiceImg {
+  display: flex;
+  align-items: start;
+  height: 90vh;
+  background: cover;
+  width: 100%;
+}
+/* CONTAINER 5................. */
+
+.ServiceContainer5 {
+  /* height: 100vh; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox5 {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Service5 {
+  width: 100%;
+  margin: auto;
+}
+.Service5 h1 {
+  color: rgb(255, 255, 255);
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service5 h2 {
+  color: white;
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service5 p {
+  color: rgb(253, 253, 253);
+  opacity: 0.6;
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service5 h6 {
+  color: #d6fb41;
+
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+/* container 6 */
+.ServiceContainer6 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  /* height: 100vh; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox6 {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Service6 {
+  width: 100%;
+  margin: auto;
+}
+.Service6 h1 {
+  color: rgb(255, 255, 255);
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service6 h2 {
+  color: white;
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service6 p {
+  color: rgb(253, 253, 253);
+  opacity: 0.6;
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service6 h6 {
+  color: #d6fb41;
+
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+
+/* Container 7 */
+
+.ServiceContainer7 {
+  background-image: linear-gradient(
+    to right top,
+    #4359c0,
+    #405eca,
+    #3c64d4,
+    #3669df,
+    #2d6fe9
+  );
+
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox7 {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Service7 {
+  width: 100%;
+  margin: auto;
+}
+.Service7 h1 {
+  color: rgb(255, 247, 247);
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service7 h2 {
+  color: rgb(223, 200, 200);
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service7 p {
+  color: rgba(235, 226, 226, 0.938);
+  opacity: 0.6;
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service7 h6 {
+  color: #dfe216;
+
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+
+/* CONTAINER 8 */
+.ServiceContainer8 {
+  /* height: 100vh; */
+  background-image: linear-gradient(
+    to right top,
+    #c0c468,
+    #c6c85b,
+    #cccb4d,
+    #d3cf3d,
+    #dad227
+  );
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox8 {
+  /* height: 100vh; */
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Service8 {
+  width: 100%;
+  margin: auto;
+}
+.Service8 h1 {
+  color: rgb(22, 20, 20);
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service8 h2 {
+  color: rgb(20, 15, 15);
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service8 p {
+  color: rgba(73, 51, 51, 0.938);
+  opacity: 0.6;
+
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service8 h6 {
+  color: #2527a8;
+
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+/* CONTAINER 9 */
+.ServiceContainer9 {
+  background-image: linear-gradient(
+    to right top,
+    #50a9c7,
+    #34b6cd,
+    #0ac3cd,
+    #00cfc7,
+    #27dabb
+  );
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.Servicebox9 {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.Service9 {
+  width: 100%;
+  margin: auto;
+}
+.Service9 h1 {
+  color: rgb(255, 247, 247);
+  font-size: 2.3rem;
+  font-weight: 600;
+  text-align: left;
+  margin: 50px 80px 20px;
+}
+.Service9 h2 {
+  color: rgb(223, 200, 200);
+  opacity: 0.6;
+  font-size: 2.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service9 p {
+  color: rgba(235, 226, 226, 0.938);
+  opacity: 0.6;
+  font-size: 1.5rem;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+.Service9 h6 {
+  color: #dfe216;
+  opacity: 0.6;
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-align: left;
+  margin: 0px 80px 20px;
+}
+/* Container 10 */
+.ServiceContainer10 {
+  background: #0e0e0e;
+  width: 100%;
+
+  text-align: center;
+  justify-content: center;
+}
+.ServiceBox10 {
+  margin: auto;
+  padding-top: 100px;
+}
+.ServiceBox10 h1 {
+  color: white;
+  margin: 30px;
+  font-size: 6.5rem;
+  font-weight: 700;
+  opacity: 0.9;
+}
+.imgSet {
+  height: 200px;
+  width: 200px;
+  border: 20px solid white;
+  opacity: 1;
+}
+.ServiceCards {
+  /* height: 400px; */
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.ServiceCard {
+  height: 300px;
+  width: 400px;
+  border-top: 2px solid rgb(240, 240, 141);
+  margin: 20px;
+  padding: 20px;
+
+}
+.ServiceCard h3 {
+  color: white;
+  padding: 20px;
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-align: left;
+}
+.ServiceCard p {
+  color: white;
+  opacity: 0.6;
+  padding-left: 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  text-align: left;
+}
+.serviceIcon {
+  color: rgb(238, 238, 119);
+  font-size: 2rem;
+  text-align: left;
+  padding: 20px 20px 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .Servicebox1 h1 span {
+    font-size: 2.5rem;
+  }
+  .Servicebox2 {
+    /* margin: 100px auto; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+  }
+  .Service1 h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 15px;
+    margin: auto;
+  }
+  .Service1 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service1 p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .Service1 h6 {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .ServiceContainer3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .Servicebox3 {
+    flex-direction: column;
+  }
+  .Service3 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Service3 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service3 p {
+    font-size: 1rem;
+    text-align: left;
+    /* margin: 0px 80px 20px; */
+  }
+  .Service3 h6 {
+    font-size: 1.2rem;
+    text-align: center;
+    /* margin: 0px 80px 20px; */
+  }
+  .ServiceImg {
+    height: 50vh;
+  }
+  .Servicebox4 {
+    flex-direction: column;
+  }
+
+  .Service4 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Service4 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service4 p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .Service4 h6 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .Servicebox5 {
+    flex-direction: column;
+  }
+
+  .Service5 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Service5 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service5 p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .Service5 h6 {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .Servicebox6 {
+    flex-direction: column;
+  }
+
+  .Service6 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Service6 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service6 p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .Service6 h6 {
+    color: #d6fb41;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .Servicebox7 {
+    flex-direction: column-reverse;
+  }
+  .Service7 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Service7 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service7 p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .Service7 h6 {
+    color: #dfe216;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .Servicebox8 {
+    flex-direction: column;
+  }
+
+  .Service8 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Service8 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service8 p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .Service8 h6 {
+    font-size: 1.2rem;
+    font-weight: 300;
+    text-align: center;
+  }
+  .Servicebox9 {
+    flex-direction: column-reverse;
+  }
+
+  .Service9 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Service9 h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .Service9 p {
+    font-size: 1rem;
+    text-align: left;
+  }
+  .Service9 h6 {
+    font-size: 1.2rem;
+    text-align: left;
+  }
+  .ServiceCard {
+    height: 300px;
+    width: 300px;
+  }
+  .ServiceCards {
+    flex-direction: column;
+  }
+  .ServiceBox10 h1 {
+    font-size: 2.8rem;
+  }
+  .ServiceCard h3 {
+    color: white;
+    padding: 20px;
+    font-size: 1.2rem;
+
+    text-align: left;
+  }
+  .ServiceCard p {
+    color: white;
+    opacity: 0.6;
+    padding-left: 20px;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: left;
+  }
+  .serviceIcon {
+    color: rgb(238, 238, 119);
+    font-size: 2rem;
+    text-align: left;
+    padding: 20px 20px 5px;
+  }
+}

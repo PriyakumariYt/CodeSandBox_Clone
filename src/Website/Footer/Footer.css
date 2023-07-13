@@ -1,0 +1,103 @@
+.footer {
+  /* margin: 180px auto 0; */
+  /* height: 400px; */
+  width: 100%;
+  /* border: 2px solid red; */
+  /* justify-content: center;
+  display: flex; */
+  /* border-top: 0.1px solid rgb(151, 144, 144); */
+
+  text-align: center;
+}
+.col {
+  width: 100%;
+  /* height: 400px; */
+
+  display: flex;
+  margin: auto;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+}
+.row {
+  /* height: 400px; */
+  /* width: 300px; */
+  border: 2px solid#11d13a;
+  border: hidden;
+  text-align: left;
+
+  margin: 20px 30px auto;
+  padding: 5px;
+}
+
+.sandboxlog {
+  height: 50px;
+  width: 50px;
+  margin: 50px 50px;
+  opacity: 0.5;
+}
+.row h5 {
+  font-size: 15px;
+  font-weight: 200;
+  font-family: sans-serif;
+  margin: 30px 10px 5px;
+
+  color: #c8cdce;
+  opacity: 0.6;
+}
+.row h5:hover {
+  color: #11d13a;
+  cursor: pointer;
+}
+hr {
+  background: #a89696;
+  height: 1px;
+  border: 0;
+  margin: 10px auto;
+  width: 90%;
+}
+.footer2 {
+  /* border: 2px solid red; */
+  display: flex;
+  text-align: left;
+}
+.footer2 h6 {
+  margin: 20px 50px;
+
+  font-size: 15px;
+  padding: 10px;
+  font-weight: 200;
+  font-family: sans-serif;
+
+  color: #a0aeb1;
+}
+.icons {
+  display: flex;
+
+  margin: 50px;
+  /* margin-right: 80px; */
+}
+.fa-brands {
+  font-size: 20px;
+  margin-right: 20px;
+  color: white;
+  /* margin-left:80px ; */
+  &:hover {
+    color: rgb(17, 177, 155);
+  }
+}
+
+@media (max-width: 768px) {
+  .col {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .row {
+    flex: 2;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+}
