@@ -7,7 +7,7 @@ const ServiceComponent6 = () => {
         <div className="Servicebox6">
           <div className="Service6">
             <img
-              src="https://codesandbox.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdesktop.cdf3f730.png&w=1200&q=75"
+              src="https://codesandbox.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdesktop.b7b478c3.png&w=1920&q=75"
               alt=""
               className="ServiceImg"
             />
